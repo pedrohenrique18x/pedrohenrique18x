@@ -8,7 +8,7 @@ Meu Nome é Pedro Henrique
 
   ### Você Pode Entrar Em Contato Comigo 📫
 
-  pedrohenriq7zk@gmail.com
+  pedro.alves18@escola.pr.gov.br
 
   @pedroh_enriq7zk
 
