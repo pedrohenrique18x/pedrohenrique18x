@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem Vindo Ao Meu Perfil 💙
 
-<!--
-**pedrohenrique18x/pedrohenrique18x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Pedro Henrique
 
-Here are some ideas to get you started:
+- Estou Estudando Na [Alura](https://alura.com.br)
+- Estou Me Desenvolvendo na Linguagem JavaScript
+- Utilizo esse Espaço para minha Organização e compartilhamento dos meus projetos Desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você Pode Entrar Em Contato Comigo 📫
+
+  pedrohenriq7zk@gmail.com
+
+  @pedroh_enriq7zk
+
+  ![](https://media.tenor.com/egxm_ajg8hgAAAAC/goku.gif)
